@@ -1,0 +1,90 @@
+h1{
+  border:2px;
+  padding:2px;
+  margin:10px;
+  color: blue;
+  text-align: center;
+  line-height: 60px;
+}
+img{width:"400px"; height:"400px";
+  border:2px solid red;
+  padding:2px;
+  margin:3px;
+  background-color:blueviolet;
+}
+body{
+  margin:10px;
+  padding:2px;
+  border:2px;
+  background-color:navy;
+  text-align: center;;
+}
+h2{
+  padding:2px;
+  margin:10px;
+  border: 2px;
+  color: pink;
+  font-style: italic;
+  text-align: center;
+}
+h3{
+  border:2px;
+  margin:20px;
+  padding:7px;
+  color:palevioletred;
+}
+h4{color:;
+  padding:2px;
+  margin:10px;
+  border:2px;
+}
+p{
+  padding: 6px;
+  margin: 20px;
+  border:2px solid red;
+  font-family: sans-serif;
+  color:pink;
+  background-color:peru;
+  font-size: 20px;
+  line-height: 80px;
+}
+
+.intro{
+  border:2px solid red ;
+  color:mediumorchid;
+  font-size:20px;
+  font-style:;
+}
+ol{
+  border:2px solid red;
+  line-height: 40px;
+  width:30%;
+  float:right;
+}
+.sidebar{
+    padding:63px;
+    margin:6px;
+    text-align: center;
+    border: 6px solid red;
+    float:right;
+    font-size:30px;
+    width:30%;
+    background-color:yellow;
+  }
+.Main{
+  text-align:center;
+  padding:60px;
+  border:6px solid red;;
+  margin:6px;
+  color:midnightblue;
+  font-size:30px;
+  font-style:;
+  float:left;
+  width:40%;
+  background-color:peru;
+}
+@media screen and (max-width: 320px) {
+  body{background-color:black;
+  color:white;}
+
+}
