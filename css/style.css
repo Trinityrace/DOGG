@@ -20,18 +20,18 @@ body{
   text-align: center;;
 }
 h2{
-  padding:2px;
-  margin:10px;
-  border: 2px;
-  color: pink;
-  font-style: italic;
-  text-align: center;
+  padding:;
+  margin:;
+  border:;
+  color:;
+  font-style: ;
+  text-align: ;
 }
 h3{
-  border:2px;
-  margin:20px;
-  padding:7px;
-  color:palevioletred;
+  border:;
+  margin:;
+  padding:;
+  color:;
 }
 h4{color:;
   padding:2px;
@@ -49,19 +49,19 @@ p{
   line-height: 80px;
 }
 
-.intro{
+.A{
   border:2px solid red ;
   color:mediumorchid;
   font-size:20px;
   font-style:;
 }
 ol{
-  border:2px solid red;
-  line-height: 40px;
-  width:30%;
-  float:right;
+  border:;
+  line-height:;
+  width:;
+  float:;
 }
-.sidebar{
+.B{
     padding:63px;
     margin:6px;
     text-align: center;
@@ -71,18 +71,6 @@ ol{
     width:30%;
     background-color:yellow;
   }
-.Main{
-  text-align:center;
-  padding:60px;
-  border:6px solid red;;
-  margin:6px;
-  color:midnightblue;
-  font-size:30px;
-  font-style:;
-  float:left;
-  width:40%;
-  background-color:peru;
-}
 @media screen and (max-width: 320px) {
   body{background-color:black;
   color:white;}
